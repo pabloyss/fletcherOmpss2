@@ -1,0 +1,3 @@
+CC=$(OMPSS2) -fompss-2 -03
+CFLAGS=-v $(CLANG_LIBS)
+#LIBS=$(GCC_LIBS)
